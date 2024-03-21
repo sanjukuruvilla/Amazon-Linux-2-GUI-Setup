@@ -7,9 +7,8 @@
     - [Configuring AWS CLI](#configuring-aws-cli)
     - [Setting Up Amazon Linux 2 EC2 Instance](#setting-up-amazon-linux-2-ec2-instance)
     - [GUI Desktop](#gui-desktop)
-4. [Additional Documentation](#additional-documentation)
-5. [Contributing](#contributing)
-6. [License](#license)
+4. [Contributing](#contributing)
+5. [License](#license)
 
 # Amazon-Linux-2-GUI-Setup
 
